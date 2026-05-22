@@ -1,19 +1,18 @@
 ## Hi there 👋
 
-I'm [Hieu](https://github.com/hieucutevl2/), who very love Minecraft.
+I'm [Hieu](https://github.com/hieucutevl2/), who love Minecraft.
 
 Currently learning: [Java](https://en.wikipedia.org/wiki/Java) & [C++](https://en.wikipedia.org/wiki/C%2B%2B)
-<!--
-**hieucutevl2/hieucutevl2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Going on the Internet and take the ideas. Of course, I can make it by myself, but not really efficience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Fact ( but it's not fun):
+I love Minecraft
+I'm keen on Minecraft
+I'm going to quit Minecrart, but the fake one.
+I'm interested in Minecraft
+I'm a Minecraft addict
+Minecraft is my brain
+
+
+
