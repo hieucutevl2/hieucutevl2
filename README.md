@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm hieu (a.k.a [hieucutevl2](https://github.com/hieucutevl2/))
+I'm [Hieu](https://github.com/hieucutevl2/), who very love Minecraft.
+
+Currently learning: [Java](https://en.wikipedia.org/wiki/Java) & [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 <!--
 **hieucutevl2/hieucutevl2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
